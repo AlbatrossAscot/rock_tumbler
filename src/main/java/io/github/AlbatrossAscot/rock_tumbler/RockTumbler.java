@@ -1,4 +1,4 @@
-package io.github.albatross_ascot.rock_tumbler;
+package io.github.AlbatrossAscot.rock_tumbler;
 
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;

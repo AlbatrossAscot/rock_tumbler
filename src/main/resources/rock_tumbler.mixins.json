@@ -1,7 +1,7 @@
 {
 	"required": true,
 	"minVersion": "0.8",
-	"package": "io.github.albatross_ascot.rock_tumbler.mixin",
+	"package": "io.github.AlbatrossAscot.rock_tumbler.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [],
 	"client": [

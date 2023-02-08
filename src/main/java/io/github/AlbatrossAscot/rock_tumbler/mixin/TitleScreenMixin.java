@@ -1,6 +1,6 @@
-package io.github.albatross_ascot.rock_tumbler.mixin;
+package io.github.AlbatrossAscot.rock_tumbler.mixin;
 
-import io.github.albatross_ascot.rock_tumbler.RockTumbler;
+import io.github.AlbatrossAscot.rock_tumbler.RockTumbler;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

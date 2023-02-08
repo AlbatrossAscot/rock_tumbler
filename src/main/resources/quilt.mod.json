@@ -1,25 +1,25 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "io.github.albatross_ascot",
+		"group": "io.github.AlbatrossAscot",
 		"id": "rock_tumbler",
 		"version": "${version}",
 		"metadata": {
 			"name": "Rock Tumbler",
 			"description": "Adds support for a rock tumbling process.",
 			"contributors": {
-				"albatross_ascot": "Owner"
+				"AlbatrossAscot": "Owner"
 			},
 			"contact": {
-				"homepage": "https://albatross_ascot.github.io/",
-				"issues": "https://github.com/albatross_ascot/rock_tumbler/issues",
-				"sources": "https://github.com/albatross_ascot/rock_tumbler"
+				"homepage": "https://AlbatrossAscot.github.io/",
+				"issues": "https://github.com/AlbatrossAscot/rock_tumbler/issues",
+				"sources": "https://github.com/AlbatrossAscot/rock_tumbler"
 			},
 			"license": "LGPL-3.0-only"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "io.github.albatross_ascot.rock_tumbler.RockTumbler"
+			"init": "io.github.AlbatrossAscot.rock_tumbler.RockTumbler"
 		},
 		"depends": [
 			{
